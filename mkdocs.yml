@@ -1,12 +1,25 @@
 site_name: My Blog  # 网站标题
 site_url: https://Woodson-04.github.io  # 替换为你的 GitHub Pages URL
 theme:
-  name: material
-  features:
-    - navigation.tabs  # 标签式导航
-    - navigation.indexes  # 自动生成目录
   palette:
-    scheme: slate  # 暗色主题
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至暗色模式
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至亮色模式
+  font:
+    text: Roboto
+    code: Roboto Mono
 plugins:
   - search  # 默认搜索插件
   - blog:  # 安装 mkdocs-blog-plugin
