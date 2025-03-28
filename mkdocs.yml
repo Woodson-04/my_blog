@@ -1,6 +1,8 @@
 site_name: My Blog  # 网站标题
 site_url: https://Woodson-04.github.io  # 替换为你的 GitHub Pages URL
+
 theme:
+  name:material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
