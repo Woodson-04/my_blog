@@ -1,0 +1,9 @@
+site_name: My Blog       # 网站标题
+site_url: https://Woodson-04.github.io  # 替换为你的 GitHub Pages URL
+theme: material          # 使用 Material 主题（推荐）
+nav:                     # 导航菜单
+  - Home: index.md
+  - About: about.md
+  - 文章：
+  - 第一篇: posts/article1.md
+  - 第二篇: posts/article2.md
