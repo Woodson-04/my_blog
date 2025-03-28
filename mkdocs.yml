@@ -1,19 +1,19 @@
-site_name: My Blog       # 网站标题
+site_name: My Blog  # 网站标题
 site_url: https://Woodson-04.github.io  # 替换为你的 GitHub Pages URL
 theme:
   name: material
   features:
-    - navigation.tabs       # 标签式导航
-    - navigation.indexes    # 自动生成目录
+    - navigation.tabs  # 标签式导航
+    - navigation.indexes  # 自动生成目录
   palette:
-    scheme: slate           # 暗色主题         
+    scheme: slate  # 暗色主题
 plugins:
-  - search                  # 默认搜索插件
-  - blog:                   # 安装 mkdocs-blog-plugin
-      post_dir: posts       # 指定文章目录
-nav:                     # 导航菜单
+  - search  # 默认搜索插件
+  - blog:  # 安装 mkdocs-blog-plugin
+      post_dir: posts  # 指定文章目录
+nav:  # 导航菜单
   - Home: index.md
   - About: about.md
-  - 文章：
-  - 第一篇: posts/article1.md
-  - 第二篇: posts/article2.md
+  - 文章:
+    - 第一篇: posts/article1.md
+    - 第二篇: posts/article2.md
