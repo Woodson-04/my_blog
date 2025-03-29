@@ -1,5 +1,5 @@
 site_name: My Blog  # 网站标题
-site_url: https://Woodson-04.github.io/dlf.github.io/  # 替换为你的 GitHub Pages URL
+site_url: https://woodson-04.github.io/dlf.github.io/  # 替换为你的 GitHub Pages URL
 
 theme:
   name: material
