@@ -9,9 +9,9 @@ theme:
   palette:
     scheme: light           # 暗色主题
 plugins:
-  - search  # 默认搜索插件
-  - blog:  # 安装 mkdocs-blog-plugin
-      post_dir: posts  # 指定文章目录
+  - search
+  - gh-deploy:
+      remote_branch: gh-pages  # 指定部署到 gh-pages 分支
 nav:  # 导航菜单
   - Home: index.md
   - About: about.md
