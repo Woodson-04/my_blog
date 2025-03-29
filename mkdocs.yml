@@ -1,5 +1,5 @@
 site_name: My Blog
-site_url: https://Woodson-04.github.io/dlf.github.io/  # 确保全小写
+site_url: https://woodson-04.github.io/dlf.github.io/  # 确保全小写
 theme:
   name: material
   features:
