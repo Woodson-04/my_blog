@@ -4,7 +4,7 @@ site_url: https://Woodson-04.github.io  # 替换为你的 GitHub Pages URL
 theme:
   name: material
   features:
-    - navigation.tabs       # 标签式导航
+    - navigation.tab       # 标签式导航
     - navigation.indexes    # 自动生成目录
   palette:
     scheme: light           # 暗色主题
