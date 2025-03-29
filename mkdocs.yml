@@ -1,18 +1,17 @@
-site_name: My Blog  # 网站标题
-site_url: https://woodson-04.github.io/dlf.github.io/  # 替换为你的 GitHub Pages URL
-
+site_name: My Blog
+site_url: https://woodson-04.github.io/dlf.github.io/  # 确保全小写
 theme:
   name: material
   features:
-    - navigation.tab       # 标签式导航
-    - navigation.indexes    # 自动生成目录
+    - navigation.tab
+    - navigation.indexes
   palette:
-    scheme: light           # 暗色主题
+    scheme: light
 plugins:
   - search
-  - gh-deploy:
-      remote_branch: gh-pages  # 指定部署到 gh-pages 分支
-nav:  # 导航菜单
+  - blog:
+      post_dir: posts
+nav:
   - Home: index.md
   - About: about.md
   - 文章:
