@@ -3,8 +3,7 @@ site_url: https://woodson-04.github.io/dlf.github.io/  # 确保全小写
 theme:
   name: material
   features:
-    - navigation.tab
-    - navigation.indexes
+    - navigation.tabs
   palette:
     scheme: light
 plugins:
