@@ -1,14 +1,20 @@
 name: Deploy to GitHub Pages
 on:
   push:
-    branches: [main]  # 监听 main 分支的推送
+    branches: [main]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4  # 拉取代码
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.10"  # 指定 Python 版本
-      - run: pip install mkdocs mkdocs-material  # 安装 MkDocs 和 Material 主题
-      - run: mkdocs gh-deploy --force --no-jekyll  # 构建并部署到 gh-pages 分支
+          python-version: "3.10"
+      - run: pip install mkdocs mkdocs-material
+      - run: mkdocs build
+      - run: code ./site/.nojekyll  # 手动添加 .nojekyll
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
