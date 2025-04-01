@@ -1,18 +1,20 @@
 site_name: My Blog
-site_url: https://woodson-04.github.io/dlf.github.io/  # 确保全小写
+site_url: https://woodson-04.github.io/dlf.github.io/
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.tabs  # 顶部标签式导航栏
   palette:
     scheme: light
 plugins:
-  - search
-  - blog:
+  - search  # 默认搜索插件
+  - blog:   # 博客插件配置
       post_dir: posts
 nav:
   - Home: index.md
   - About: about.md
-  - 文章:
-    - 第一篇: posts/article1.md
-    - 第二篇: posts/article2.md
+  - 第一篇: posts/article1.md  # 平铺结构，显示为顶部标签
+  - 第二篇: posts/article2.md
+markdown_extensions:
+  - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
+use_directory_urls: false  # 禁用目录式URL，确保图片路径正确
