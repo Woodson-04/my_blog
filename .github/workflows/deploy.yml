@@ -12,7 +12,7 @@ jobs:
           python-version: "3.10"
       - run: pip install mkdocs mkdocs-material
       - run: mkdocs build
-      - run: code ./site/.nojekyll  # 手动添加 .nojekyll
+      - run: touch ./site/.nojekyll  # 手动添加 .nojekyll
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
