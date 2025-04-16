@@ -1,20 +1,31 @@
 site_name: My Blog
 site_url: https://woodson-04.github.io/dlf.github.io/
+
 theme:
   name: material
   features:
     - navigation.tabs  # 顶部标签式导航栏
+    - navigation.path    # 启用面包屑导航
+    - navigation.instant   # 优化交互流畅度（可选）
   palette:
     scheme: light
+
 plugins:
   - search  # 默认搜索插件
   - blog:   # 博客插件配置
-      post_dir: posts
-nav:
-  - Home: index.md
-  - About: about.md
-  - 第一篇: posts/article1.md  # 平铺结构，显示为顶部标签
-  - 第二篇: posts/article2.md
+      post_dir: posts    
+
+nav: 
+# 注意贡献时 - 不可少，且前面空格必须手打，不能tab
+  - 主页: index.md
+  - 农学: posts/农学/index.md
+  - 公务员: posts/公务员/index.md
+  - 模板: posts/模板/index.md
+  - 劝告: posts/劝告/index.md
+
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
+
+extra_css:
+
 use_directory_urls: false  # 禁用目录式URL，确保图片路径正确
