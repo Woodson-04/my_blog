@@ -17,4 +17,4 @@
 俺是农民
 
 ## 致谢
-本网站大量参考校内优秀网站，如[图灵班学习指南](https://zju-turing.github.io/TuringCourses/)，[数学之韵](https://zju_math.pages.zjusct.io/mathweb/)，[浙江大学竺可桢学院学业指导中心辅学计划站点](https://ckc-agc.bowling233.top/)等，本农民表示十分感谢
+本网站大量参考校内优秀网站，如[图灵班学习指南](https://zju-turing.github.io/TuringCourses/){: .green-link}，[数学之韵](https://zju_math.pages.zjusct.io/mathweb/)，[浙江大学竺可桢学院学业指导中心辅学计划站点](https://ckc-agc.bowling233.top/)等，本农民表示十分感谢

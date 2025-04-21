@@ -1,0 +1,43 @@
+/* 简化面包屑导航，只显示层级路径 */
+.md-breadcrumb {
+    font-size: 0.8rem;
+    opacity: 0.7;
+  }
+  .md-breadcrumb a {
+    text-decoration: none !important;
+  }
+  /* 隐藏默认的 "Back to Index" 文本（如有） */
+  .md-breadcrumb__link[href*="index.md"] {
+    display: none;
+  }
+
+/* docs/css/custom.css */
+/* 设置顶部导航栏的背景颜色 */
+.md-header {
+  background-color: rgb(45, 90, 48);
+}
+
+/* 可选：设置导航栏文字颜色 */
+.md-header .md-header-nav__title,
+.md-header .md-header-nav__link {
+  color: white; /* 设置为白色以提高可读性 */
+}
+
+/* 设置导航栏的背景颜色 */
+.md-tabs {
+  background-color: rgb(45, 90, 48);
+}
+
+/* docs/css/custom.css */
+.md-typeset a {
+  color: rgb(70, 142, 70) !important;
+}
+
+.md-typeset a:hover {
+  color: rgb(179, 171, 49) !important;
+}
+
+/* docs/css/custom.css */
+body {
+  background-color: rgb(254, 254, 255);
+}

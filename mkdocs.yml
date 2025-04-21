@@ -8,8 +8,7 @@ theme:
     - navigation.path    # 启用面包屑导航
     - navigation.instant   # 优化交互流畅度（可选）
   palette:
-    scheme: light
-
+  
 plugins:
   - search  # 默认搜索插件
   - blog:   # 博客插件配置
@@ -27,5 +26,5 @@ markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
 
 extra_css:
-
+  - stylesheets/custom.css
 use_directory_urls: false  # 禁用目录式URL，确保图片路径正确
