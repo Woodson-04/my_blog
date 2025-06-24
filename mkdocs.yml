@@ -8,6 +8,8 @@ theme:
     - navigation.path    # 启用面包屑导航
     - navigation.instant   # 优化交互流畅度（可选）
   palette:
+  logo: img/logo.svg       # 导航栏logo路径
+  favicon: img/favicon.svg # favicon路径
   
 plugins:
   - search  # 默认搜索插件
@@ -24,6 +26,10 @@ nav:
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
+
+extra:
+  favicon: img/favicon.svg
+  logo: img/logo.svg 
 
 extra_css:
   - stylesheets/custom.css
