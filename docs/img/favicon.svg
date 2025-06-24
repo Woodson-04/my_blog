@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.49 75.49">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #231815;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: #efefef;
+      }
+
+      .cls-4, .cls-7, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: #350007;
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name=" 图层 1">
+    <path class="cls-7" d="M37.75.5c20.57,0,37.24,16.67,37.24,37.24s-16.67,37.25-37.24,37.25S.5,58.31.5,37.74,17.18.5,37.75.5Z"/>
+    <circle class="cls-4" cx="40.42" cy="44.02" r="17.84"/>
+    <ellipse class="cls-3" cx="31.92" cy="25.34" rx="19.54" ry="14.49" transform="translate(-8.57 29.99) rotate(-45)"/>
+    <ellipse class="cls-6" cx="54.49" cy="29.72" rx="5.35" ry="15.63" transform="translate(.18 59.77) rotate(-57.56)"/>
+    <ellipse class="cls-2" cx="25.79" cy="45.41" rx="15.52" ry="4.19" transform="translate(-23.97 61.24) rotate(-78.06)"/>
+    <ellipse class="cls-5" cx="24.28" cy="26.18" rx="1.7" ry="3.03"/>
+    <ellipse class="cls-1" cx="36.29" cy="19.51" rx="1.75" ry="2.96" transform="translate(-3.17 31.38) rotate(-45)"/>
+    <circle class="cls-4" cx="47.59" cy="60.34" r="4.61"/>
+  </g>
+</svg>
