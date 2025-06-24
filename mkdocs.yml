@@ -7,6 +7,7 @@ theme:
     - navigation.tabs  # 顶部标签式导航栏
     - navigation.path    # 启用面包屑导航
     - navigation.instant   # 优化交互流畅度（可选）
+    - content.code.annotate  # 添加这个特性以支持数学公式
   palette:
   logo: img/logo.svg       # 导航栏logo路径
   favicon: img/favicon.svg # favicon路径
@@ -26,11 +27,20 @@ nav:
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
+  - pymdownx.arithmatex:  # 添加数学公式支持
+      generic: true       # 使用通用模式（KaTeX）
+  - pymdownx.superfences
+  - pymdownx.highlight
 
 extra:
   favicon: img/favicon.svg
   logo: img/logo.svg 
 
+extra_javascript:
+  # 用mathjax显示数学公式
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 extra_css:
+  # 现有样式
   - stylesheets/custom.css
 use_directory_urls: false  # 禁用目录式URL，确保图片路径正确
