@@ -23,7 +23,7 @@ nav:
   - 农学: posts/农学/index.md
   - 公务员: posts/公务员/index.md
   - 模板: posts/模板/index.md
-  - 劝告: posts/劝告/index.md
+  - 人生感悟: posts/人生感悟/index.md
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
