@@ -37,14 +37,14 @@ date: 2024-01-01
 
 以地球绕太阳公转轨道半径（日地距离）作基线，把测定恒星距离转换为测定恒星周年视差（D×α=d）
 
-![测试图片](../../img/Annular_Parallax_Method.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Annular_Parallax_Method.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">三角视差法测量天体距离</p>
 </div>
 
 （2）其余办法
 
-![测试图片](../../img/Astrometry.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Astrometry.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">测定天体距离的一些方法</p>
 </div>
@@ -61,7 +61,7 @@ date: 2024-01-01
 
 测定视角径δ即可计算得出d=2Dsin（δ/2）
 
-![测试图片](../../img/diameter.webp){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/diameter.webp){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">天体半径与视角径的关系</p>
 </div>
@@ -70,7 +70,7 @@ date: 2024-01-01
 
 设想把一颗恒星的圆面分为相等两半，所有光从两个半圆的面积中心集中射出，这样，一颗恒星便大致相当于角距为0.41θ（θ为恒星视角径）的双星。运用光学知识，移动B和B'到干涉条纹消失或最模糊，则恒星视角径θ=1.22λ/D（干涉仪保持AB=A'B'，BB'=D）
 
-![测试图片](../../img/Interferometer.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Interferometer.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">恒星干涉仪</p>
 </div>
@@ -79,7 +79,7 @@ date: 2024-01-01
 
 当月球恰好从地球与某恒星间经过时，就发生月掩星现象。用光电方法准确记录从月球暗边缘开始掩星到完全掩星的时间间隔τ，可证明，恒星视角径为θ=ντsinξ（ν为月球相对于背景恒星的运动角速度；ξ为初掩点处的月球切线与月球运动方向的夹角）
 
-![测试图片](../../img/moon_cover_star.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/moon_cover_star.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">月掩星法</p>
 </div>
@@ -98,7 +98,7 @@ date: 2024-01-01
 
 **O**h! **B**e **A** **F**ine **G**irl **K**iss **M**e! (**R**ight **N**ow **S**weetheart!)
 
-![测试图片](../../img/Spectrum.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Spectrum.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">恒星光谱分类</p>
 </div>
@@ -109,7 +109,7 @@ date: 2024-01-01
 
 自转是星球的一种普遍现象，将圆面平行于自转轴划分为若干个狭条，每个狭条产生一条谱线，强度正比于狭条面积。若恒星不自转，观测者得到一条窄而深的谱线，若恒星按逆时针方向旋转，则狭条1-4谱线蓝移，5-8谱线红移，叠加后形成宽而浅的谱线轮廓。恒星赤道自转速度决定了谱线的宽度。
 
-![测试图片](../../img/Stellar_rotation.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Stellar_rotation.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">恒星自转使谱线变宽</p>
 </div>
@@ -120,7 +120,7 @@ date: 2024-01-01
 
 有的，赫罗图是不得不品的一环！
 
-![测试图片](../../img/H_R_picture.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/H_R_picture.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">赫罗图</p>
 </div>
@@ -144,7 +144,7 @@ date: 2024-01-01
 
 脉冲星有很强磁场、很快转速，而磁轴与自转轴倾斜，沿着磁轴发射的辐射束随着中子星自转，就像灯塔的光束扫射那样，当它扫过地球方向时，就观测到一个脉冲。中子星每自转一周，辐射束扫过地球一次，因此脉冲周期就是中子星的自转周期。
 
-![测试图片](../../img/pulsar.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/pulsar.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">脉冲星磁极信号辐射</p>
 </div>
@@ -161,7 +161,7 @@ date: 2024-01-01
 
 除此之外，黑洞还有雷斯纳-诺德斯特洛姆黑洞，克尔纽曼黑洞（最贴近真实情况）
 
-![测试图片](../../img/Kerr_black_hole.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Kerr_black_hole.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">克尔黑洞</p>
 </div>
@@ -188,7 +188,7 @@ date: 2024-01-01
 
 ### 第11章 双星和聚星
 
-![测试图片](../../img/accretion_disk.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/accretion_disk.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">半接双星中的气流、吸积盘和热斑</p>
 </div>
@@ -204,7 +204,7 @@ date: 2024-01-01
 
 氦燃烧耗尽后生成以碳氧灰烬组成的中心区，收缩变热，邻接层则发生氦燃烧，最外为氢燃烧层。红巨星的太阳变得不稳定，缓慢地（每隔几万年）交替收缩和膨胀，脉动振幅逐渐增大，最终抛出气壳成为行星状星云，留下星核坍缩成白矮星，后面转变为黑矮星。
 
-![测试图片](../../img/sun_H-R.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/sun_H-R.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">行星演化赫罗图</p>
 </div>
@@ -238,7 +238,7 @@ date: 2024-01-01
 
 一颗质量足够大的恒星的一生中，可以发生一系列将轻元素熔合成较重元素的核合成过程（氢燃烧、碳燃烧、氧燃烧、硅燃烧）其中一种核燃料的灰在压缩加热后成为用于随后燃烧阶段的燃料，至核心坍缩前，大质量恒星内部的元素分布发展成为一种洋葱状结构。在恒星演化晚期，核燃烧从内部迅速向外层扩展，最终由于核心的重力坍塌形成的径向激波所引起的温度骤升，导致爆炸性燃烧。在这些快速反应的物理环境中，生成的每种元素丰度都达到平衡的固定值，称为核准平衡。
 
-![测试图片](../../img/onion_structure.jpg){ style="display: block; margin: 0 auto;" }
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/onion_structure.jpg){ style="display: block; margin: 0 auto;" }
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">演化晚期大质量恒星内部的洋葱状结构</p>
 </div>

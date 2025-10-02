@@ -1,6 +1,6 @@
 # 欢迎光临
 
-![网站横幅](img/banner.jpg)
+![网站横幅](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/banner.jpg)
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">这是一条必经的路，没有指引出口的光</p>
 </div>
@@ -10,7 +10,7 @@
 
 但是只要你愿意和我交流，同样十分欢迎联系我！
 <div style="text-align: center; margin: 5px 0; padding: 0;">
-  <img src="img/my_tdcode.png" style="width: 50%; height: auto;">
+  <img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/my_tdcode.png" style="width: 50%; height: auto;">
 </div>
 
 
