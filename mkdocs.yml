@@ -24,6 +24,7 @@ nav:
   - 公务员: posts/公务员/index.md
   - 模板: posts/模板/index.md
   - 人生感悟: posts/人生感悟/index.md
+  - 天文: posts/天文/index.md
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）

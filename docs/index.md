@@ -10,8 +10,9 @@
 
 但是只要你愿意和我交流，同样十分欢迎联系我！
 <div style="text-align: center; margin: 5px 0; padding: 0;">
-  <img src="img/my_tdcode.png" alt="网站横幅" style="width: 50%; height: auto;">
+  <img src="img/my_tdcode.png" style="width: 50%; height: auto;">
 </div>
+
 
 ## 关于我
 俺是农民
