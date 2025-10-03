@@ -15,7 +15,7 @@ theme:
 plugins:
   - search  # 默认搜索插件
   - blog:   # 博客插件配置
-      post_dir: posts    
+      post_dir: posts
 
 nav: 
 # 注意贡献时 - 不可少，且前面空格必须手打，不能tab
