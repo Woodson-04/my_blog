@@ -12,6 +12,12 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 
 **我打算在此分享有意思的知识点和阅读的书籍**
 
+## 阅读书籍：
+
+[植物系统学（PLANT SYSTEMATICS）](plant_systematics.md)
+
+[生物化学（BIOCHEMISTRY）](biochemistry.md)
+
 ## 知识点：
 
 **1.生物每个种我们都需要模式标本，那么智人的模式标本是谁呢**
@@ -30,9 +36,18 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 
 **4.为什么裸子植物和被子植物作为姐妹类群，物种多样性相差这么多**
 
+**5.一种有意思的昆虫：扶桑绵粉蚧**
 
-## 阅读书籍：
+它体表
 
-[植物系统学（PLANT SYSTEMATICS）](plant_systematics.md)
+**6.农田喷洒杀虫药物一般从四周向中间围喷**
 
-[生物化学（BIOCHEMISTRY）](biochemistry.md)
+可有效防止成虫逃逸
+
+**7.蚂蚁过河**
+
+**8.人类的孟买血型：在一些罕见情况下，都是O型血的父母，其后代却既可能是A型血，也可能是B型血**
+
+发生的原因在于一种叫做孟买表型（因其发现于印度孟买）的极端罕见性状，表面上看起来像O型血，实际上含有编码A糖或B糖的基因，只是因为没有H物质，无法组合完成识别功能(自然地，我们知道后代依旧不可能是AB型血)
+
+![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Bombay%20Blood%20Type.png){ style="display: block; margin: 0 auto;" }
