@@ -8,6 +8,7 @@ theme:
     - navigation.path    # 启用面包屑导航
     - navigation.instant   # 优化交互流畅度（可选）
     - content.code.annotate  # 添加这个特性以支持数学公式
+    - navigation.indexes
   palette:
   logo: img/logo.svg       # 导航栏logo路径
   favicon: img/favicon.svg # favicon路径
@@ -21,7 +22,7 @@ nav:
 # 注意贡献时 - 不可少，且前面空格必须手打，不能tab
   - 主页: index.md
   - 农学: posts/农学/index.md
-  - 公务员: posts/公务员/index.md
+  #- 公务员: posts/公务员/index.md
   - 模板: posts/模板/index.md
   - 人生感悟: posts/思想感悟/index.md
   - 天文: posts/天文/index.md

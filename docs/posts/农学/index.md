@@ -51,3 +51,5 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 发生的原因在于一种叫做孟买表型（因其发现于印度孟买）的极端罕见性状，表面上看起来像O型血，实际上含有编码A糖或B糖的基因，只是因为没有H物质，无法组合完成识别功能(自然地，我们知道后代依旧不可能是AB型血)
 
 ![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Bombay%20Blood%20Type.png){ style="display: block; margin: 0 auto;" }
+
+**9.touchdown-PCR、巢式PCR**
