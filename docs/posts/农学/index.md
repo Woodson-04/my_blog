@@ -18,6 +18,9 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 
 [生物化学（BIOCHEMISTRY）](biochemistry.md)
 
+[农业昆虫学（AGRICULTURAL ENTOMOLOGY）](Agricultural Entomology.md)
+
+
 ## 知识点：
 
 **1.生物每个种我们都需要模式标本，那么智人的模式标本是谁呢**
