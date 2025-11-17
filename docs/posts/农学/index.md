@@ -56,3 +56,5 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 ![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Bombay%20Blood%20Type.png){ style="display: block; margin: 0 auto;" }
 
 **9.touchdown-PCR、巢式PCR**
+
+**10.两棵相邻的银杏树到了冬天，一棵已经基本完全落叶，另一棵基本没有落叶，可能的原因是什么**
