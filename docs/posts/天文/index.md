@@ -61,7 +61,7 @@ date: 2024-01-01
 
 真太阳时指的是以地球自转周期——昼夜为时间间隔单位的计量标准，这是最自然的计量方式。但是，地球在绕太阳的公转椭圆轨道上的运动不是匀速的，**真太阳日的实际日长在一年中不断变化**，从而引入平太阳时，平太阳在天球上以真太阳赤经平均变化速度做匀速运动。
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Time_difference.png){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Time_difference.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">一回归年中真太阳时与平太阳时之差(时差)</p>
 </div>
@@ -87,17 +87,173 @@ date: 2024-01-01
 
 1978年，人们偶然发现冥王星的卫星——冥卫一，才用开普勒第三定律算出了冥王星较准确的质量，在冥卫一绕冥王星的运动中，当它们的轨道面侧向地球时（每248年2次），就会观测到冥卫一“凌”冥王星或冥王星“掩”冥卫一的现象，此时通过亮度变化等信息，可推算它们的大小、质量及表面性质
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/yanxing.png){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/yanxing.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
 
 
 ### 第4章 天体辐射和天文观测
 
+#### 自适应光学
+
+自适应光学是实时快速（100-1000Hz）控制和补偿大气扰动所致星像质量变坏的光学技术，原理是利用一套光学系统，由波前传感器测量星光的瞬时波前畸变，并传输驱动改正器件所需的信号，以达到和保持最佳的视宁度
+
+#### 综合孔径射电望远镜——诺贝尔物理学奖成果
+
+英国射电天文学家M.赖尔研制出灵敏度高、分辨角小、能成像的“综合孔径射电望远镜”，获1974年诺贝尔物理学奖。原理如下：任何一副图像都可以分解为很多亮度分布的正弦和余弦成分，自然也可以逆变换。我们用A、B两个小天线，A不动、B移动，两者信号接在一起形成双天线射电干涉仪，再移动B，就能得到所有方向和距离上的相关信号振幅和相位，得到高精度图片
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/shedian.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">综合孔径射电望远镜工作原理</p>
+</div>
+
+实际应用中以多个天线系统代替移动的B,例如美国国家射电天文台的甚大天线阵（VLA）
+
+#### 研究暗物质——γ射线望远镜
+
+天体的X射线和γ射线完全被地球大气吸收，因此需要进行太空探测；γ射线光子能量太高（>500keV）无法使用物镜聚焦成像，实际上以光子探测器（电离室或光子计数器）为主，并为确定γ射线源的方位和角大小而在前面加“准直器”屏蔽
+
+暗物质有显著引力效应，却不发光、不吸收光、不反射光，几乎不与普通物质发生相互作用，但根据理论预测，两个暗物质粒子相遇会发生湮灭，转化为我们熟悉的普通物质和能量，湮灭产生高能粒子，其中**最稳定、指向性最好的就是γ射线光子**
+
+γ射线望远镜可以捕捉暗物质作用的γ射线特征光谱、识别暗物质集中分布产生的γ射线异常空间分布，从而帮助研究暗物质
 
 ### 第5章 行星地球和月球
 
+#### 地球自转速率的变化
+
+地球自转速率长期来看主要表现为逐渐减慢，主要原因是潮汐摩擦：月球和太阳引潮力使得海水涨落而形成潮汐。由于地球自转速度大于月球轨道运动，随地球自转的水隆起超前于月球运动，受月球引力扭矩而如“刹车”的制动作用
+
+地球自转减慢意味着地球角动量转移给月球绕地球的轨道角动量，导致**月球远离地球**
+
+类似地，地球和太阳对月球也有引起潮作用，月球的潮汐摩擦长期作用结果导致月球的自转周期变为与绕地球轨道运动周期相同（**同步自转**）
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Tide.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">潮汐摩擦</p>
+</div>
+
+#### 地球自转轴的进动
+
+地球自转轴在空间运动的最主要表现是绕垂直于黄道的轴线做圆锥旋动（地轴进动），进动方向与地球自转方向相反，周期为25800年，于是北天极绕黄极打转
+
+北天极指向星空的位置发生变动，公元前3000年的北极星是天龙座α，现在是小熊座α，公元7000年是仙王座α，13000年是织女星
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Precession.png" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">地轴的进动（左）与北天极指向星空的位置变动（右）</p>
+</div>
+
+#### 地球之水从何而来
+
+目前主流理论：地球上的水是**“先天拥有”和“后天送达”相结合**的结果，主要来自地球形成时期的内部储水，以及后期彗星和小行星的撞击输送
+
+地球形成初期（46亿年前）位于太阳系“雪线”内，水无法冷凝为固态，只以气态存在，且大多数散失到太空中，因此地球初期较干燥；随着地球冷却，地球内部初期矿物中的水分释放到地表（火山运动），降雨形成原始海洋
+
+太阳系形成后期，有一个“晚期重轰炸期”（约41亿至38亿年前），大量外太阳系小天体猛烈撞击地球，其中C型小行星和彗星有大量冰，带来大量水分（但彗星发现大多数氘氢比远高于地球海水，所以可能只贡献小部分）
+
+#### 月球的“尘暴”效应
+
+月球磁场基本完全起因于月壳，磁场成因尚无定论。月球磁场很弱，因静电斥力从表面抛出的细尘粒实则长期漂浮，造成月球表面的临时尘埃“大气”，受全球电荷堆积差别的驱动，漂浮的尘自然地从很强的负电夜侧飞到很弱的正电昼侧
+
+目前月球勘测者飞船穿过磁尾期间，会测到月球夜侧电压变化，从-200V跳到-100V。等离子片是动力学结构，处于经常运动状态，飞船经过“尾腔”时，等离子片会持续袭击飞船（几分钟到几小时，甚至几天）
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Lunar_dust_storm.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳风直接流向月球表面，背后形成尾腔，并填充太阳风等离子体</p>
+</div>
+
+#### 月球的起源
+
+争论中不断发展，概括起来有三类：分裂假说，俘获假说，共同吸积假说
+
+目前巨撞击假说占主流，通过参数优化，在贫铁元素原因、轨道演化、形成年龄约束、角动量约束等方面取得了良好解释
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Huge_collision.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">弹性巨撞击地球而抛出物聚集过程的模拟</p>
+</div>
 
 ### 第6章 行星、矮行星及它们的卫星
 
+#### 水星
+
+平均密度大、富金属（70%）
+
+由于冷却表面变形皱缩，会形成叶状悬崖这样的挤压特征
+
+#### 金星
+
+大气浓厚、温室效应严重，**表面不会落酸雨**，因为下沉云滴被高温蒸发，大气环流复杂
+
+难以探测出磁场
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Venus_atmospheric_circulation.png" style="display: block; margin: 0 auto; max-width: 90%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">金星的大气环流</p>
+</div>
+
+#### 火星
+
+仅有很弱磁场，但陨石分析说明古磁场较大（0.1Gs，地球的三分之一）
+
+寻找火星上的生命是一个浪漫的问题
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/life_fossil_Mars.png" style="display: block; margin: 0 auto; max-width: 90%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">火星陨石中的生命化石（粒状体）</p>
+</div>
+
+#### 木星
+
+大红斑从1664年发现以来，持续存在300多年而仅略有变化，仍为未完全解决之谜
+
+磁场很强（3-14Gs），因为质量大，压力大，氢变为金属氢、导电性极强，自转又快
+
+木卫三是太阳系最大卫星
+
+木星云的亮带和带纹分布与纬向环流对应
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Jupiter_zone_belt.png" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">木星的风速和云带</p>
+</div>
+
+#### 土星
+
+土卫六是太阳系第二大的卫星，一共有145颗卫星
+
+土星环正受太阳引力和土星磁场牵引，以“环雨”的形式落入土星大气层，若照此速度，1亿-3亿年后土星环会完全消失
+
+表面云呈现和木星云类似的交替亮带和带纹图案
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Saturn_zone_belt.png" style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">土星的风速和云带</p>
+</div>
+
+#### 天王星
+
+20多年观测到太阳光照射的南极和处于黑夜的北极同样高度几乎全球“**同此凉热**”，说明大气热传导很好
+
+天王星磁轴与自转轴夹角近60°
+
+#### 海王星
+
+磁轴与自转轴夹角达46.9°，且磁场中心向南半球偏离约为海王星半径的0.485倍，**磁场高度偏心和倾斜，十分复杂**，成因仍在探讨，可能磁场主要源于内部较外层部分
+
+#### 力大砖飞：抵御太阳风各显神通的两个行星
+
+金星虽无可测出磁场，但大气浓厚、电离层丰富，太阳风照射直接形成巨大弓形激波面，此之谓力大砖飞
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Venus_magnetosphere.png" style="display: block; margin: 0 auto; max-width: 82%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">金星磁层</p>
+</div>
+
+木星磁场特别强，辐射带辐射比地球辐射带强5000—10000倍，此之亦谓力大砖飞
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Jupiter_magnetosphere.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">木星磁层</p>
+</div>
 
 ### 第7章 太阳系小天体
 
@@ -125,7 +281,7 @@ date: 2024-01-01
 
 （2）其余办法
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Astrometry.jpg){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Astrometry.jpg" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">测定天体距离的一些方法</p>
 </div>
@@ -179,7 +335,7 @@ date: 2024-01-01
 
 **O**h! **B**e **A** **F**ine **G**irl **K**iss **M**e! (**R**ight **N**ow **S**weetheart!)
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Spectrum.jpg){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Spectrum.jpg" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">恒星光谱分类</p>
 </div>
@@ -190,7 +346,7 @@ date: 2024-01-01
 
 自转是星球的一种普遍现象，将圆面平行于自转轴划分为若干个狭条，每个狭条产生一条谱线，强度正比于狭条面积。若恒星不自转，观测者得到一条窄而深的谱线，若恒星按逆时针方向旋转，则狭条1-4谱线蓝移，5-8谱线红移，叠加后形成宽而浅的谱线轮廓。恒星赤道自转速度决定了谱线的宽度。
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Stellar_rotation.jpg){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Stellar_rotation.jpg" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">恒星自转使谱线变宽</p>
 </div>
@@ -201,7 +357,7 @@ date: 2024-01-01
 
 有的，赫罗图是不得不品的一环！
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/H_R_picture.jpg){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/H_R_picture.jpg" style="display: block; margin: 0 auto; max-width: 60%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">赫罗图</p>
 </div>
@@ -286,7 +442,7 @@ date: 2024-01-01
 
 氦燃烧耗尽后生成以碳氧灰烬组成的中心区，收缩变热，邻接层则发生氦燃烧，最外为氢燃烧层。红巨星的太阳变得不稳定，缓慢地（每隔几万年）交替收缩和膨胀，脉动振幅逐渐增大，最终抛出气壳成为行星状星云，留下星核坍缩成白矮星，后面转变为黑矮星。
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/sun_H-R.jpg){ style="display: block; margin: 0 auto;" }
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/sun_H-R.jpg" style="display: block; margin: 0 auto; max-width: 60%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">行星演化赫罗图</p>
 </div>
