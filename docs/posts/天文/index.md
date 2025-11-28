@@ -229,6 +229,8 @@ date: 2024-01-01
   <p style="color: #666; font-size: 0.9em;">土星的风速和云带</p>
 </div>
 
+土星的环系为内快、外慢的较差转动，已得光谱分析确证
+
 #### 天王星
 
 20多年观测到太阳光照射的南极和处于黑夜的北极同样高度几乎全球“**同此凉热**”，说明大气热传导很好
@@ -257,14 +259,105 @@ date: 2024-01-01
 
 ### 第7章 太阳系小天体
 
+#### 有意思的小行星
+
+4769 Castalia为美国加州理工学院的Eleaner Helin在1989年8月9日发现的一颗近地小行星。由射电望远镜与计算机模拟得到其形状似哑铃，长约1.8km，成分相似的两瓣各约0.75km，中间凹下100-150m，它可能是两块体经温和碰撞而结合在一起的“密接”双小行星
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Castalia.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">Castalia</p>
+</div>
+
+2005年首次发现一颗小行星带有两颗卫星，它就是西尔维亚[87 Sylvia，罗马神话的铸工之母]。西尔维亚长约380km，直径平均280km，自转周期为5h11min，两颗卫星顺向绕转
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sylvia.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">Sylvia和它的两颗卫星</p>
+</div>
+
+#### 彗星
+
+##### 彗星的轨道
+
+木星族彗星特指可能受木星引力摄动而“俘获”的一类彗星
+
+彗星轨道周期有时候会发生不能用引力解释的变化，称为非引力效应。彗核抛出物质有反冲力作用，类似火箭发射，为一种非引力效应：太阳光照射彗核表面，冰—尘埃蒸发流对彗核有反冲力，若彗核自转轴垂直于轨道面，当彗核自转与公转方向相同与否影响蒸发流角度，使彗星公转加速或减速，影响周期
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Comet_Non_gravitational_effect.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">彗星轨道运动的非引力效应</p>
+</div>
+
+##### 彗尾反常现象（向日彗尾）
+
+因为太阳、彗星、地球处于特殊的相对位置，彗尾看到是朝向太阳的，其实只是彗尾的弯曲
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Anomalous_comet_tail.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">反常彗尾的解释</p>
+</div>
+
+##### 彗星演变简史
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Comet_evolution.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">彗星的演变简史</p>
+</div>
+
+##### 哈雷彗星
+
+
+    《春秋》载有鲁文公十四年（公元前613年）“秋七月，有星孛入北斗”
+
+这是哈雷彗星最早得出的确切记载
+
+哈雷彗星前三次回归是1835年、1910年、1986年。恰巧马克·吐温生于1835年，他在自传中写到
+
+    我随哈雷彗星而来，也期望随它而去
+
+果然于1910年逝世
+
+哈雷彗星的轨道运动周期会发生改变，这主要是由于非引力效应引起的
+
+1991年2月哈雷彗星已离太阳14.5AU远，本应不活动的裸星核突然增亮200-300倍，推断可能受到一次大撞击，这会影响它在2061年的回归
+
+#### 流星出现率会出现周日变化、周年变化
+
+后半夜看到流星比前半夜多（周日变化）；北半球下半年观测到出现率大于上半年（周年变化）
+
+这些变化可以由地球的运动来解释：
+
+    假设流星体子在地球周围分布均匀
+    
+    由于地球绕太阳公转和自转，
+    后半夜（尤其黎明前）迎面来的流星体相对速度大，流星出现率大
+    前半夜（尤其傍晚）相对速度小，流星出现率小
+
+    地球公转运动方向在秋季偏赤道北
+    北半球观测者地平线之上迎面来的流星体多，相对速度大，流星出现率大
+    南半球地平线上流星体少，相对速度小，流星出现率小
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Day_changes.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">流星出现周日变化的解释</p>
+</div>
+
+#### 黄道光
+
+宇宙尘在黄道面附近比较密集，反射和散射太阳光呈现黄道光。低纬度山区春季黄昏后西方地平线上或秋季黎明前东方地平线上，容易看到黄道光（沿黄道带向上延伸的长锥形淡淡光带）
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Zodiacal_light.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">黄道光（右）与银河（左）争辉</p>
+</div>
 
 ### 第8章 太阳
+
 
 
 ### 第9章 恒星的一般性质
 
 #### 恒星基本信息测定
-
 
 ##### 一、距离
 
