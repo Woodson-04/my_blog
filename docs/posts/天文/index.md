@@ -8,12 +8,6 @@ date: 2024-01-01
 [陶哲轩的访谈](https://www.bilibili.com/video/BV1Je81zQEet)镇楼
 
 其中有关火星轨道的确认部分太过美妙，不得不说开普勒还是传奇，给我那些第谷的数据我肯定死活想不出火星的轨道QaQ
-## 图片
-
-![25年月食](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/%E6%9C%88%E4%BA%AE.bmp)
-<div style="text-align: center; margin: 20px 0;">
-  <p style="color: #666; font-size: 0.9em;">25.9.8凌晨月食</p>
-</div>
 
 ## 《天文学教程》知识点
 
@@ -261,16 +255,20 @@ date: 2024-01-01
 
 #### 有意思的小行星
 
+##### Castalia
+
 4769 Castalia为美国加州理工学院的Eleaner Helin在1989年8月9日发现的一颗近地小行星。由射电望远镜与计算机模拟得到其形状似哑铃，长约1.8km，成分相似的两瓣各约0.75km，中间凹下100-150m，它可能是两块体经温和碰撞而结合在一起的“密接”双小行星
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Castalia.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Castalia.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">Castalia</p>
 </div>
 
+##### Sylvia
+
 2005年首次发现一颗小行星带有两颗卫星，它就是西尔维亚[87 Sylvia，罗马神话的铸工之母]。西尔维亚长约380km，直径平均280km，自转周期为5h11min，两颗卫星顺向绕转
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sylvia.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sylvia.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">Sylvia和它的两颗卫星</p>
 </div>
@@ -292,14 +290,14 @@ date: 2024-01-01
 
 因为太阳、彗星、地球处于特殊的相对位置，彗尾看到是朝向太阳的，其实只是彗尾的弯曲
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Anomalous_comet_tail.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Anomalous_comet_tail.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">反常彗尾的解释</p>
 </div>
 
 ##### 彗星演变简史
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Comet_evolution.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Comet_evolution.png" style="display: block; margin: 0 auto; max-width: 60%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">彗星的演变简史</p>
 </div>
@@ -337,7 +335,7 @@ date: 2024-01-01
     北半球观测者地平线之上迎面来的流星体多，相对速度大，流星出现率大
     南半球地平线上流星体少，相对速度小，流星出现率小
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Day_changes.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Day_changes.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">流星出现周日变化的解释</p>
 </div>
@@ -346,14 +344,165 @@ date: 2024-01-01
 
 宇宙尘在黄道面附近比较密集，反射和散射太阳光呈现黄道光。低纬度山区春季黄昏后西方地平线上或秋季黎明前东方地平线上，容易看到黄道光（沿黄道带向上延伸的长锥形淡淡光带）
 
-<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Zodiacal_light.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Zodiacal_light.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
 <div style="text-align: center; margin: 20px 0;">
   <p style="color: #666; font-size: 0.9em;">黄道光（右）与银河（左）争辉</p>
 </div>
 
 ### 第8章 太阳
 
+太阳质量占太阳系总质量99.86%，半径为695700km，为地球的109倍
 
+#### 太阳的结构
+
+##### 基本结构
+
+我们看到的太阳表面是光球层，作为太阳表面区分大气和内部
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_structural_model.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳的结构模型</p>
+</div>
+
+从上图中可以看到太阳内部由内而外温度降低，符合常识，但太阳大气**由内而外温度上升**，具体解释可见下方“日冕加热问题”
+
+##### 较差自转
+
+太阳是较差自转的，赤道区自转快、高纬自转慢，内部自转速度也随半径和纬度变化
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_Differential_rotation.png" style="display: block; margin: 0 auto; max-width: 60%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳的较差自转</p>
+</div>
+
+##### 米粒结构
+
+地球大气宁静度好的时候我们可以看到很多米粒状的较小亮斑，称为“米粒”，一般比周围亮30%，温度高300K，寿命约10min
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_granulation.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳光球的米粒</p>
+</div>
+
+米粒结构是一种对流现象，光球层位于温度较高的对流层上，热的对流元胞上升，辐射多余热量后变冷气体分开而沿米粒边缘向下返流回去
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_granulation_convection.png" style="display: block; margin: 0 auto; max-width: 50%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">米粒、超米粒及巨胞的对流</p>
+</div>
+
+    PS：位图好像不太好使说是，下次不弄位图了
+
+#### 轰动科学界的“中微子失踪案”和两个诺贝尔物理奖的诞生
+
+氢燃烧的两种核反应途径（p-p链；CNO循环）都放出中微子，我们想要探测中微子的存在
+
+1968年，美国旧金矿下的的Homestake太阳中微子探测器探测中微子流量仅为“标准模型”预言的1/3（使用中微子和37Cl生成易探测的放射性37Ar的方法），这就是轰动科学界的“中微子失踪案”
+
+原因在于太阳中微子变“味”了，中微子有三种：电子中微子、μ子中微子、τ子中微子，太阳反应产生电子中微子，而振荡转变，使得大多数探测器探测乏力
+
+加拿大萨德伯里中微子探测站（SNO）有效地探测、区分了另外两种中微子，与日本的超级神冈中微子探测器比较得出太阳中微子数目理论值是正确的
+
+为此，诞生了两个诺贝尔物理学奖：
+
+    Raymond Davis和小柴昌俊由于“宇宙中微子探测”获得2002年诺贝尔物理学奖
+    梶田隆章和Arthur B. McDonald因“发明了中微子振荡，证明了中微子具有质量”而分享了2015年诺贝尔物理学奖
+
+#### 日冕加热问题
+
+从色球层顶部到日冕底部，温度从几万开徒升至百万开，加热原因很重要、很有意思，而没有完全解决
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_air_temperature.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳大气温度随高度的变化</p>
+</div>
+
+##### 波加热理论
+
+太阳对流层的剧烈运动产生各种阿尔文波（一种磁流体力学波）
+
+它们在等离子体中能量耗散很小，高效地将能量从太阳表面输送到遥远的日冕上
+
+而日冕区域密度极低，阿尔文波速度和振幅显著增加，从而变得不稳定，发生**非线性相互作用或耗散**，将携带波能转化为等离子体的热能
+
+##### 纳米耀斑理论（磁重联理论）
+
+诺奖得主尤金·帕克认为太阳表面磁场在对流运动拉扯下不断扭曲、缠绕和断裂，当方向相反磁场线被挤压在一起时，它们断开重连，形成新磁场结构，引起**磁加热**
+
+##### 关于氦电离程度对日冕加热的影响
+
+当太阳温度较低时，氦只是部分电离（保留两个电子中的一个），这时候辐射对物质的冷却非常有效，色球层顶部热平衡温度只有几万开
+
+可是要是温度略微上升，氦完全电离后辐射效率就不高了，无法再产生之前那样丰富和高效的线辐射，等离子体的主要冷却机制变成了**热韧致辐射**（自由电子在离子附近减速发出的连续辐射），形成强烈正反馈循环，温度迅速跃升至百万开，达到日冕的温度
+
+这一理论可以辅助解释**温度为何变化如此激烈**
+
+##### 目前共识
+
+太阳的开放磁场区域（冕洞），波加热可能主导；活跃区域和闭合磁场环中，纳米耀斑主导，而氦电离转变提供了“热开关”
+
+#### 太阳风和日球
+
+太阳风是日冕气体的连续外流，主要成分是电子和质子，还有α粒子等一些重离子，可分为快太阳风（750km/s）和慢太阳风（300km/s）
+
+由于恒星际也存在物质或恒星际风，太阳风带电粒子流和磁场不可能无限地延展，而是被限制在一个巨大磁层—**日球**内
+
+日球和恒星际介质的交界面称为**日球顶**
+
+    日球顶内有终端激波，是太阳风的粒子从超声速降低到亚声速的区域
+    日球顶外有弓形激波，是星际介质和日球顶的交互作用形成的
+
+星际介质和日球顶边缘作用，在弓形激波和日球顶之间形成**炙热氢气组成的“氢墙”**
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Solar_extraterritorial_structure.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">日球的外区结构</p>
+</div>
+
+#### 太阳黑子的强单磁性
+
+黑子出现在太阳光球层上。太阳磁场分布首先是**不均匀的**、**变化的**，当对流层等离子体运动发电发磁，冻结在物质中，形成一根根**磁通量管**，而磁通量管由于扰动，**质量较轻**而浮到光球层后，就会产生太阳黑子
+
+由于磁通量管是闭合环路，拱出太阳表面时会有两个脚点，因此太阳黑子总是成对出现的（**先导黑子**和**后随黑子**），它们间的磁感线在日冕中形成一个巨大的拱形结构（**磁拱**）
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sunspot_morphological_structure.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">黑子的形态结构</p>
+</div>
+
+太阳黑子是强磁的，因为磁通量管需要与外部巨大的热气压平衡，磁场必须**高度集中压缩**
+
+太阳黑子温度低，因为强磁场**有效抑制太阳能量向外传递的主要形式—对流**，能量接受少，温度低，较暗淡；同时温度低可以**抽取表面周围物质**，导入太阳表面以下，进一步阻止下方热气体上升传热。磁场越强，抑制效果越强，黑子越稳定、越暗
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sunspot_material_circulation.png" style="display: block; margin: 0 auto; max-width: 60%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">太阳黑子物质环流三维图</p>
+</div>
+
+#### 双带耀斑
+
+很有意思，是太阳能量最高的爆发现象之一，但书中并无详细解释，我在此放一个[deepseek的解答](https://chat.deepseek.com/share/5awombf6z1r5acgq01)
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Sun_double_ribbon_flare.png" style="display: block; margin: 0 auto; max-width: 70%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">双带耀斑模型</p>
+</div>
+
+双带耀斑的形成可以作为磁重联理论最直接、最有力的观测证据
+
+#### 空间天气学
+
+太阳的剧烈爆发活动严重影响空间环境，影响人类生产生活，因此形象称为空间天气，研究者将太阳大气、行星际和地球的磁层、电离层和中高层大气作为一个有机系统，了解空间灾害性天气过程的变化规律
+
+<img src="https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Space_weather_Hazards.png" style="display: block; margin: 0 auto; max-width: 80%; height: auto;" />
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #666; font-size: 0.9em;">空间天气的危害</p>
+</div>
+<div style="text-align: center; margin: 20px 0;">
+  <p style="color: #662; font-size: 0.8em;">1-空间天气事件威胁航天器安全；2-电离层扰动造成电波衰减、通信中断；3-影响导航和定位系统、GPS等卫星定位误差，甚至无法工作；4-太阳活动影响地球的天气和气候；5-地磁活动影响生物活动，造成重大疾病；6-高能粒子辐射危及宇航员、飞行员和乘客安全；7-快速磁扰感生强电流。导致输变电故障，缩短石油、天然管道和光缆寿命、影响数据通信；8-影响军事活动和国家安全；9-电磁场变化影响地下勘探</p>
+</div>
+
+**耀斑的电磁辐射到达地球很快，而粒子辐射到达地球较慢**，造成地球效应也先后不同，因此可以通过观测耀斑的前兆，预报后随地球效应
 
 ### 第9章 恒星的一般性质
 

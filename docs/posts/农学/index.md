@@ -18,9 +18,6 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 
 [生物化学（BIOCHEMISTRY）](biochemistry.md)
 
-[农业昆虫学（AGRICULTURAL ENTOMOLOGY）](Agricultural Entomology.md)
-
-
 ## 知识点：
 
 **1.生物每个种我们都需要模式标本，那么智人的模式标本是谁呢**
@@ -68,3 +65,9 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 **12.核盘菌形成疙瘩休眠，需要吐水以皱缩，分子机制如何**
 
 老师说他很感兴趣，还没研究
+
+## 我的课程笔记（不建议观看）：
+
+不全，并且我不打算再更新了，在这里放着是因为不放也是浪费(*╹▽╹*)
+
+[农业昆虫学（AGRICULTURAL ENTOMOLOGY）](Agricultural Entomology.md)
