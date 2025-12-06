@@ -35,6 +35,12 @@ nav:
   - 天文: 
     - 主页: posts/天文/index.md
     - 图片: posts/天文/photos.md
+  - 绿色植物百科:
+      - 藻类: posts/绿色植物百科/藻类.md
+      - 苔藓类: posts/绿色植物百科/苔藓类.md
+      - 石松类和蕨类: posts/绿色植物百科/石松类和蕨类.md
+      - 裸子植物: posts/绿色植物百科/裸子植物.md
+      - 被子植物: posts/绿色植物百科/被子植物.md
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）
@@ -42,10 +48,6 @@ markdown_extensions:
       generic: true       # 使用通用模式（KaTeX）
   - pymdownx.superfences
   - pymdownx.highlight
-
-extra:
-  favicon: img/favicon.svg
-  logo: img/logo.svg 
 
 extra_javascript:
   # 用mathjax显示数学公式
