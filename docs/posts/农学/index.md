@@ -4,11 +4,11 @@ date: 2024-01-01
 ---
 **我不打算在这里搞学习资料，这些校内搞得很完善了（98、农生链公众号）**
 
-cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://www.cc98.org/board/285)、[环资经纬](https://www.cc98.org/board/344)(学习天地偏通识，碧水青禾、环资经纬偏专业课)
+cc98：[学习天地](https://www.cc98.org/board/68){:target="_blank"}、[碧水青禾](https://www.cc98.org/board/285){:target="_blank"}、[环资经纬](https://www.cc98.org/board/344){:target="_blank"}(学习天地偏通识，碧水青禾、环资经纬偏专业课)
 
-微信公众号：[农生链](https://dwz.mk/8rws6)(由于微信的限制，外部链接无法跳转到公众号关注，所以我放了一篇文章)
+微信公众号：[农生链](https://dwz.mk/8rws6){:target="_blank"}(由于微信的限制，外部链接无法跳转到公众号关注，所以我放了一篇文章)
 
-农学的培养方案参见[本科教学信息服务平台](http://zdbk.zju.edu.cn)：培养方案 -> 培养方案查询
+农学的培养方案参见[本科教学信息服务平台](http://zdbk.zju.edu.cn){:target="_blank"}：培养方案 -> 培养方案查询
 
 **我打算在此分享有意思的知识点和阅读的书籍**
 
@@ -50,7 +50,7 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 
 发生的原因在于一种叫做孟买表型（因其发现于印度孟买）的极端罕见性状，表面上看起来像O型血，实际上含有编码A糖或B糖的基因，只是因为没有H物质，无法组合完成识别功能(自然地，我们知道后代依旧不可能是AB型血)
 
-![测试图片](https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Bombay%20Blood%20Type.png){ style="display: block; margin: 0 auto;" }
+(https://my-blog-1355984362.cos.ap-shanghai.myqcloud.com/Bombay%20Blood%20Type.png){ style="display: block; margin: 0 auto;" }
 
 **9.touchdown-PCR、巢式PCR**
 
@@ -117,6 +117,10 @@ cc98：[学习天地](https://www.cc98.org/board/68)、[碧水青禾](https://ww
 **21.根外施肥的一个特别的好处**
 
 水稻育种对花期相遇要求很高，需要精心调节，偏施N肥以延缓父本发育，但普通施肥会快速扩散，相邻母本也被延缓，根外施肥定向性较好(但大面积根外施肥较麻烦，虽然我觉得不是无人机就好了?)
+
+**22.气象学在农学中发挥很重要作用**
+
+可惜现在农学院搞气象学老师退休了，地科院老师不愿跨学院上课，导致现在学生不学气象学了
 
 ## 我的课程笔记（不建议观看）：
 
