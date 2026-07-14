@@ -25,6 +25,9 @@ nav:
     - 主页: posts/农学/index.md
     - 植物系统学(PLANT SYSTEMATICS): posts/农学/plant_systematics.md
     - 生物化学(BIOCHEMISTRY): posts/农学/biochemistry.md
+    - 生物物理学(BIOPHYSICS): posts/农学/biophysics.md
+    - 课程笔记(不建议观看): posts/农学/lecture_notes/index.md
+    #- 农业生态学(AGROECOLOGY): posts/农学/lecture_notes/agroecology.md
   #- 公务员: posts/公务员/index.md
   - 模板: 
     - 主页: posts/模板/index.md
