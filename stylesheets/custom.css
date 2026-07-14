@@ -29,3 +29,41 @@ body {
   background-color: rgb(254, 254, 255);
 }
 
+.three-line-table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 100%;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+}
+
+
+.three-line-table th {
+    text-align: center;
+    border-bottom: 1.5px solid #333;
+    padding: 8px;
+}
+
+
+.three-line-table td {
+    border: none;
+    padding: 6px 12px;
+}
+
+
+/* 第一列左对齐 */
+.three-line-table td:first-child {
+    text-align: left;
+}
+
+
+/* 第二列数字靠右 */
+.three-line-table td:nth-child(2) {
+    text-align: center;
+}
+
+
+/* 二级分类缩进 */
+.three-line-table .indent {
+    padding-left: 35px;
+}
