@@ -23,27 +23,41 @@ nav:
   - 主页: index.md
   - 农学:
     - posts/农学/index.md
-    - 植物系统学(PLANT SYSTEMATICS): posts/农学/plant_systematics.md
-    - 生物化学(BIOCHEMISTRY): posts/农学/biochemistry.md
-    - 生物物理学(BIOPHYSICS): posts/农学/biophysics.md
-    - 课程笔记(不建议观看): posts/农学/lecture_notes/index.md
-    #- 农业生态学(AGROECOLOGY): posts/农学/lecture_notes/agroecology.md
+    - 自己阅读书籍笔记:
+      - posts/农学/book_notes/index.md
+      - 植物系统学(PLANT SYSTEMATICS): posts/农学/book_notes/plant_systematics.md
+      - 生物化学(BIOCHEMISTRY): posts/农学/book_notes/biochemistry.md
+      - 生物物理学(BIOPHYSICS): posts/农学/book_notes/biophysics.md
+    - 课程复习资料分享: posts/农学/course_review_materials/index.md
+    - 课程笔记(不建议观看): 
+      - posts/农学/lecture_notes/index.md
+      - 农业昆虫学(AGRICULTURAL ENTOMOLOGY): posts/农学/lecture_notes/agricultural_entomology.md
+      - 农业生态学(AGROECOLOGY): posts/农学/lecture_notes/agroecology.md
+      - 作物育种学(CROP BREEDING): posts/农学/lecture_notes/crop_breeding.md
+      - 作物栽培学(CROP CULTIVATION SCIENCE): posts/农学/lecture_notes/crop_cultivation_science.md
+      - 遗传学(GENETICS): posts/农学/lecture_notes/genetics.md
+      - 植物学及实验(甲)(PLANT): posts/农学/lecture_notes/plant.md
+      - 种子病理学(SEED PATHOLOGY): posts/农学/lecture_notes/seed_pathology.md
+      - 种子生产学(SEED PRODUCT SCIENCE): posts/农学/lecture_notes/seed_product_science.md
+      - 种子贮藏加工学(SEED STORAGE AND PROCESSING SCIENCE): posts/农学/lecture_notes/seed_storage_and_processing_science.md
   #- 公务员: posts/公务员/index.md
   - 模板: 
-    - 主页: posts/模板/index.md
+    - posts/模板/index.md
     - PPT: posts/模板/PPT.md
   - 思想感悟: 
-    - 主页: posts/思想感悟/index.md
+    - posts/思想感悟/index.md
     #- 人际交往: posts/思想感悟/人际交往.md
   - 天文: 
-    - 主页: posts/天文/index.md
+    - posts/天文/index.md
+    - 《天文学教程》: posts/天文/astronomy_tutorial.md
     - 图片: posts/天文/photos.md
   - 绿色植物百科:
-      - 藻类: posts/绿色植物百科/藻类.md
-      - 苔藓类: posts/绿色植物百科/苔藓类.md
-      - 石松类和蕨类: posts/绿色植物百科/石松类和蕨类.md
-      - 裸子植物: posts/绿色植物百科/裸子植物.md
-      - 被子植物: posts/绿色植物百科/被子植物.md
+    - posts/绿色植物百科/index.md
+    - 藻类: posts/绿色植物百科/藻类.md
+    - 苔藓类: posts/绿色植物百科/苔藓类.md
+    - 石松类和蕨类: posts/绿色植物百科/石松类和蕨类.md
+    - 裸子植物: posts/绿色植物百科/裸子植物.md
+    - 被子植物: posts/绿色植物百科/被子植物.md
 
 markdown_extensions:
   - attr_list  # 允许 Markdown 中添加 HTML 属性（如图片样式）

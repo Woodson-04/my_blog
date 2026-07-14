@@ -18,6 +18,8 @@ cc98：[学习天地](https://www.cc98.org/board/68){:target="_blank"}、[碧水
 
 [生物化学（BIOCHEMISTRY）](biochemistry.md)
 
+[生物物理学(BIOPHYSICS)](biophysics.md)
+
 ## 知识点：
 
 **1.生物每个种我们都需要模式标本，那么智人的模式标本是谁呢**
