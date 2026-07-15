@@ -4,6 +4,6 @@
 
 主要记录农学相关课程、书籍知识点，自然科学领域的学习笔记，以及个人思考。
 
-[欢迎查看blog](/docs/index.md)
+[欢迎查看blog](https://woodson-04.github.io/my_blog/index.html){:target="_blank"}
 
 Built with MkDocs Material.
