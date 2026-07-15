@@ -14,11 +14,11 @@ cc98：[学习天地](https://www.cc98.org/board/68){:target="_blank"}、[碧水
 
 ## 阅读书籍：
 
-[植物系统学（PLANT SYSTEMATICS）](/docs/posts/农学/book_notes/plant_systematics.md)
+[植物系统学（PLANT SYSTEMATICS）](book_notes/plant_systematics.md)
 
-[生物化学（BIOCHEMISTRY）](/docs/posts/农学/book_notes/biochemistry.md)
+[生物化学（BIOCHEMISTRY）](book_notes/biochemistry.md)
 
-[生物物理学(BIOPHYSICS)](/docs/posts/农学/book_notes/biophysics.md)
+[生物物理学(BIOPHYSICS)](book_notes/biophysics.md)
 
 ## 知识点：
 
@@ -124,6 +124,6 @@ cc98：[学习天地](https://www.cc98.org/board/68){:target="_blank"}、[碧水
 
 可惜现在农学院搞气象学老师退休了，地科院老师不愿跨学院上课，导致现在学生不学气象学了
 
-## [我的课程笔记（不建议观看）：](/docs/posts/农学/lecture_notes/index.md)
+## [我的课程笔记（不建议观看）：](lecture_notes/index.md)
 
 不全，并且我不打算再更新了，在这里放着是因为不放也是浪费(*╹▽╹*)
