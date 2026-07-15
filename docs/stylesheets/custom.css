@@ -1,18 +1,21 @@
+:root {
+  --md-primary-fg-color: rgb(45,90,48);
+  --md-primary-fg-color--light: rgb(70,120,70);
+  --md-primary-fg-color--dark: rgb(30,60,32);
+  --md-accent-fg-color: rgb(45,90,48);
+}
+
 /* docs/css/custom.css */
 /* 设置顶部导航栏的背景颜色 */
-.md-header {
-  background-color: rgb(45, 90, 48);
+.md-header,
+.md-tabs {
+  background-color: var(--md-primary-fg-color);
 }
 
 /* 可选：设置导航栏文字颜色 */
 .md-header .md-header-nav__title,
 .md-header .md-header-nav__link {
   color: white; /* 设置为白色以提高可读性 */
-}
-
-/* 设置导航栏的背景颜色 */
-.md-tabs {
-  background-color: rgb(45, 90, 48);
 }
 
 /* docs/css/custom.css */
@@ -24,9 +27,19 @@
   color: rgb(179, 171, 49) !important;
 }
 
+.md-nav--primary .md-nav__title {
+    background-color: var(--md-primary-fg-color);
+    color:white;
+}
+
 /* docs/css/custom.css */
 body {
   background-color: rgb(254, 254, 255);
+}
+
+/* 当前选中的目录项 */
+.md-nav__link--active {
+    color: rgb(45,90,48) !important;
 }
 
 .three-line-table {

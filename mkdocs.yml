@@ -10,6 +10,9 @@ theme:
     - content.code.annotate  # 添加这个特性以支持数学公式
     - navigation.indexes
   palette:
+  - scheme: default
+    primary: custom
+    accent: custom
   logo: img/logo.svg       # 导航栏logo路径
   favicon: img/favicon.svg # favicon路径
   
