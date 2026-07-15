@@ -90,6 +90,19 @@ body {
     color: rgb(45,90,48) !important;
 }
 
+/* =====================
+   Blockquote
+===================== */
+
+
+/* 引用文字 */
+.md-typeset blockquote p {
+    font-family: "Noto Serif SC",  serif;
+    font-size: 1rem;
+    color: rgb(53, 52, 52);
+    line-height: 2;
+}
+
 .three-line-table {
     border-collapse: collapse;
     margin: 20px auto;

@@ -30,17 +30,16 @@
 
 ## 第2章 天球坐标与时间计量
 
-<center>
-天高夜气严，列宿森就位。大星光相射，小星闹若沸。
+<div style="text-align: center; font-family: 'Noto Serif SC'; font-size: 1.2em; font-weight: 500;" markdown="1">
 
-天人不相干，嗟彼本何事。世俗强指摘，一一立名字。
+天高夜气严，列宿森就位。大星光相射，小星闹若沸。<br>
+天人不相干，嗟彼本何事。世俗强指摘，一一立名字。<br>
+南箕与北斗，乃是家人器。天亦岂有之，无奈遂自谓。<br>
+迫观知何如，远想偶有以。茫茫不可晓，使我长叹喟。<br>
 
-南箕与北斗，乃是家人器。天亦岂有之，无奈遂自谓。
+</div>
 
-迫观知何如，远想偶有以。茫茫不可晓，使我长叹喟。
-</center>
-
-<div align="right">——苏轼《夜行观星》</div>
+<div style="text-align: right; font-family: 'Noto Serif SC'; font-size: 1em; font-weight: 500;" markdown="1">——苏轼《夜行观星》</div>
 
 ### 真太阳时与平太阳时
 
